@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">maps2</string>
+    <string name="search_hint">Улица</string>
+
+    <!-- splash screen -->
+    <string name="name">Coffee</string>
+    <string name="to_go">toGO</string>
+    <!-- Strings for On Boarding Screen -->
+    <!--Titles-->
+    <string name="first_slide_title">Привет!</string>
+    <string name="second_slide_title">Поиск кофейни</string>
+    <string name="third_slide_title">Оформление заказа</string>
+    <string name="fourth_slide_title">Получение заказа</string>
+    <!--Descriptions-->
+    <string name="first_slide_desc">Coffee toGo – это приложение в котором вы можете заказать кофе онлайн и забрать его в близжайшей к вам кофейне. Сейчас расскажем как оно работает.</string>
+    <string name="second_slide_desc">На карте указаны близжайшие к вам кофейни, выбирайте наиболее удобную для вас. Приложение подскажет как долго до неё идти.</string>
+    <string name="third_slide_desc">Выбирайте свои любимые напитки и десерты. Вы можете изменить их состав и выбрать время, когда вам будет удобно их забрать.</string>
+    <string name="fourth_slide_desc">В указанное время приходите в кофейню и наслаждайтесь вкусом кофе, без очереди и ожидания.</string>
+    <!--Buttons-->
+    <string name="skip_btn">Пропустить</string>
+    <string name="next_btn">Дальше</string>
+    <string name="let_get_started">Начать</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
